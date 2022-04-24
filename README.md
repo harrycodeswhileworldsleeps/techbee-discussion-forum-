@@ -1,5 +1,6 @@
 # techbee-discussion-forum-
-
+see the following link to register yourself 
+[https://techbee-discussion-forum.herokuapp.com/](https://techbee-discussion-forum.herokuapp.com/)
 ## This is an app made for hcl techbee scholars so that they can discuss their issues and we can queries mostly asked queries 
 
 ![django1](https://user-images.githubusercontent.com/94862735/164965669-7372dc94-a8a9-43d3-9bd8-02dfe572cd5f.JPG)
