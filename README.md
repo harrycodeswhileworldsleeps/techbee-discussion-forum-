@@ -14,6 +14,16 @@ see the following link to register yourself
 
 see the following link to register yourself 
 
+# Documentation 
+
+
+## how to use :
+
+1. go to the link 
+2. make your own forum by clicking the add more button 
+3. participate in other's discussion anonymously . 
+
+
 
 ## This is an app made for hcl techbee scholars so that they can discuss their issues and we can queries mostly asked queries 
 
