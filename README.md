@@ -19,4 +19,4 @@
 
 
 see the following link to register yourself 
-[This is a link to techbee-discussion](https://techbee-discussion-forum.herokuapp.com/)
+[https://techbee-discussion-forum.herokuapp.com/](https://techbee-discussion-forum.herokuapp.com/)
