@@ -1,6 +1,6 @@
 # techbee-discussion-forum-
 
-## This is an app made for hck techbee scholars so that they can discuss their issues and we can queries mostly asked queries 
+## This is an app made for hcl techbee scholars so that they can discuss their issues and we can queries mostly asked queries 
 
 ![django1](https://user-images.githubusercontent.com/94862735/164965669-7372dc94-a8a9-43d3-9bd8-02dfe572cd5f.JPG)
 
