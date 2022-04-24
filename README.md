@@ -1,5 +1,11 @@
 # techbee-discussion-forum-
 see the following link to register yourself 
+
+
+###Contributors:
+[Harsh Sharma](https://github.com/harrycodeswhileworldsleeps) (development)
+[Vineet Rawat](https://github.com/vineet-codes256) (hosting)
+[Uvais Ahmed](https://github.com/uvais2909) (testing)
 [https://techbee-discussion-forum.herokuapp.com/](https://techbee-discussion-forum.herokuapp.com/)
 ## This is an app made for hcl techbee scholars so that they can discuss their issues and we can queries mostly asked queries 
 
