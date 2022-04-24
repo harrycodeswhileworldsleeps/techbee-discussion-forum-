@@ -2,11 +2,19 @@
 see the following link to register yourself 
 
 
-###Contributors:
+## Contributors:
+
 [Harsh Sharma](https://github.com/harrycodeswhileworldsleeps) (development)
+
 [Vineet Rawat](https://github.com/vineet-codes256) (hosting)
+
 [Uvais Ahmed](https://github.com/uvais2909) (testing)
+
 [https://techbee-discussion-forum.herokuapp.com/](https://techbee-discussion-forum.herokuapp.com/)
+
+see the following link to register yourself 
+
+
 ## This is an app made for hcl techbee scholars so that they can discuss their issues and we can queries mostly asked queries 
 
 ![django1](https://user-images.githubusercontent.com/94862735/164965669-7372dc94-a8a9-43d3-9bd8-02dfe572cd5f.JPG)
